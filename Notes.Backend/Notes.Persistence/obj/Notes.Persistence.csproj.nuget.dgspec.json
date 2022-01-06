@@ -1,0 +1,210 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\workspace\\.NetProjects\\Notes\\Notes.Backend\\Notes.Persistence\\Notes.Persistence.csproj": {}
+  },
+  "projects": {
+    "C:\\workspace\\.NetProjects\\Notes\\Notes.Backend\\Note.Application\\Note.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\workspace\\.NetProjects\\Notes\\Notes.Backend\\Note.Application\\Note.Application.csproj",
+        "projectName": "Note.Application",
+        "projectPath": "C:\\workspace\\.NetProjects\\Notes\\Notes.Backend\\Note.Application\\Note.Application.csproj",
+        "packagesPath": "C:\\Users\\DevThet\\.nuget\\packages\\",
+        "outputPath": "C:\\workspace\\.NetProjects\\Notes\\Notes.Backend\\Note.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\DevThet\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\workspace\\.NetProjects\\Notes\\Notes.Backend\\Notes.Domain\\Notes.Domain.csproj": {
+                "projectPath": "C:\\workspace\\.NetProjects\\Notes\\Notes.Backend\\Notes.Domain\\Notes.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[10.3.6, )"
+            },
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[10.3.6, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.12, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\workspace\\.NetProjects\\Notes\\Notes.Backend\\Notes.Domain\\Notes.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\workspace\\.NetProjects\\Notes\\Notes.Backend\\Notes.Domain\\Notes.Domain.csproj",
+        "projectName": "Notes.Domain",
+        "projectPath": "C:\\workspace\\.NetProjects\\Notes\\Notes.Backend\\Notes.Domain\\Notes.Domain.csproj",
+        "packagesPath": "C:\\Users\\DevThet\\.nuget\\packages\\",
+        "outputPath": "C:\\workspace\\.NetProjects\\Notes\\Notes.Backend\\Notes.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\DevThet\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\workspace\\.NetProjects\\Notes\\Notes.Backend\\Notes.Persistence\\Notes.Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\workspace\\.NetProjects\\Notes\\Notes.Backend\\Notes.Persistence\\Notes.Persistence.csproj",
+        "projectName": "Notes.Persistence",
+        "projectPath": "C:\\workspace\\.NetProjects\\Notes\\Notes.Backend\\Notes.Persistence\\Notes.Persistence.csproj",
+        "packagesPath": "C:\\Users\\DevThet\\.nuget\\packages\\",
+        "outputPath": "C:\\workspace\\.NetProjects\\Notes\\Notes.Backend\\Notes.Persistence\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\DevThet\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\workspace\\.NetProjects\\Notes\\Notes.Backend\\Note.Application\\Note.Application.csproj": {
+                "projectPath": "C:\\workspace\\.NetProjects\\Notes\\Notes.Backend\\Note.Application\\Note.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[5.0.12, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

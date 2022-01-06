@@ -1,0 +1,15 @@
+C:\workspace\.NetProjects\Notes\Notes.Backend\Note.Application\bin\Debug\net5.0\Note.Application.deps.json
+C:\workspace\.NetProjects\Notes\Notes.Backend\Note.Application\bin\Debug\net5.0\Note.Application.dll
+C:\workspace\.NetProjects\Notes\Notes.Backend\Note.Application\bin\Debug\net5.0\ref\Note.Application.dll
+C:\workspace\.NetProjects\Notes\Notes.Backend\Note.Application\bin\Debug\net5.0\Note.Application.pdb
+C:\workspace\.NetProjects\Notes\Notes.Backend\Note.Application\bin\Debug\net5.0\Notes.Domain.dll
+C:\workspace\.NetProjects\Notes\Notes.Backend\Note.Application\bin\Debug\net5.0\Notes.Domain.pdb
+C:\workspace\.NetProjects\Notes\Notes.Backend\Note.Application\obj\Debug\net5.0\Note.Application.csproj.AssemblyReference.cache
+C:\workspace\.NetProjects\Notes\Notes.Backend\Note.Application\obj\Debug\net5.0\Note.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\.NetProjects\Notes\Notes.Backend\Note.Application\obj\Debug\net5.0\Note.Application.AssemblyInfoInputs.cache
+C:\workspace\.NetProjects\Notes\Notes.Backend\Note.Application\obj\Debug\net5.0\Note.Application.AssemblyInfo.cs
+C:\workspace\.NetProjects\Notes\Notes.Backend\Note.Application\obj\Debug\net5.0\Note.Application.csproj.CoreCompileInputs.cache
+C:\workspace\.NetProjects\Notes\Notes.Backend\Note.Application\obj\Debug\net5.0\Note.Application.csproj.CopyComplete
+C:\workspace\.NetProjects\Notes\Notes.Backend\Note.Application\obj\Debug\net5.0\Note.Application.dll
+C:\workspace\.NetProjects\Notes\Notes.Backend\Note.Application\obj\Debug\net5.0\ref\Note.Application.dll
+C:\workspace\.NetProjects\Notes\Notes.Backend\Note.Application\obj\Debug\net5.0\Note.Application.pdb
